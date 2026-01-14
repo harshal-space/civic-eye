@@ -26,13 +26,12 @@ CivicEye uses AI image analysis and automatic location detection to simplify civ
 User → Web App → AI Image Detection → Database → Admin Dashboard
 
 ## 🔗 Live Demo
-[Add your app link here]
+[https://civiceyetechturbo.lovable.app]
 
 ## 📱 APK Demo
-[Add APK download link if available]
+[https://drive.google.com/file/d/1_tOTej2ko8q4eAiIaZtut9twbREeXftI/view?usp=drive_link]
 
 ## 🎥 Demo Video
-[Add YouTube / Drive link]
 
 ## 🔮 Future Scope
 - Government API integration

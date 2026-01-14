@@ -1,2 +1,13 @@
-# civic eye
-CivicEye is an AI-powered web application that enables citizens to instantly report civic issues such as potholes, garbage overflow, broken streetlights, and water leakage by simply uploading a photo. The system uses AI-based image analysis to automatically identify the issue type and captures the user’s GPS location in real time, eliminating the need for manual form filling. All reports are stored and visualized in an admin dashboard with map-based insights, helping authorities prioritize and resolve issues faster. Built using AI-assisted no-code development tools, CivicEye demonstrates how artificial intelligence can be leveraged to create scalable, real-world civic tech solutions quickly and efficiently.
+- Priority prediction using AI
+- Multilingual support
+- Reward-based citizen engagement
+
+## 👥 Team
+- Member 1 – App & Flow Design
+- Member 2 – AI Integration
+- Member 3 – Admin Dashboard
+- Member 4 – Testing & Pitch
+
+## 🏁 Note
+This project was built using AI-assisted no-code tools; source code is abstracted by the platform.
+

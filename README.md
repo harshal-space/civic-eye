@@ -28,7 +28,7 @@ User → Web App → AI Image Detection → Database → Admin Dashboard
 ## 🔗 Live Demo
 [https://civiceyetechturbo.lovable.app]
 
-## 📱 APK Demo
+## 📱 APK Demo(apk downloadable app for mobile/pc)
 [https://drive.google.com/file/d/1_tOTej2ko8q4eAiIaZtut9twbREeXftI/view?usp=drive_link]
 
 ## 🎥 Demo Video
